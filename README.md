@@ -41,7 +41,8 @@
  <h2 align="center">:mag_right: Interest </h2>
     <img src="https://img.shields.io/badge/Threejs-000000?style=flat-square&logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E50695?style=flat-square&logo=GraphQL&logoColor=white"/>
-
+  <br>
+  <br>
 </div>  
 
 
