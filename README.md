@@ -1,6 +1,6 @@
   <div align="center">
     <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h1>
-    <p align="center"> 👊 hello, i'm SeongChan. Nice to meet u</p>
+    <p align="center"> 👊 hello, i'm SeongChan. Nice to meet u 👊</p>
     <p align="center"> 🟢 I'm Front-End developer. </p
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   </div>  
