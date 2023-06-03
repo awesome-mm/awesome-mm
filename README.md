@@ -25,13 +25,14 @@
 </div>  
 
 <div align="center">
- <h2 align="center">:memo: Lealing </h2>
+ <h2 align="center">:memo: Learning </h2>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&&logo=node.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Express-68A063?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <br>
   <br>
 </div>  
